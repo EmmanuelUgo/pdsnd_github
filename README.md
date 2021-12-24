@@ -13,6 +13,12 @@ The following files were used;
 - new_york_city.csv
 - washington.csv
 
+### Libraries Used  
+The following libraries were used:
+- numpy
+- pandas
+- time
+
 ### Credits
 1. https://stackoverflow.com/questions/52938818/how-to-display-increment-raw-data-using-iloc-depending-on-user-input
 
