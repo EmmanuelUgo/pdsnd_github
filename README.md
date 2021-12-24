@@ -1,17 +1,21 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+23/12/2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This basic project is a requirement needed to obtain a certifcate in the Programming for Data Science course offered by Udacity. It is an interactive python project where the user has to pick a particular city and some descriptive statstical information would appear on screen. It is really a nice project to really understand the programming in python. Topics like data type, loops, error handling, function, methods and many others were fully covered during the course of this project.
 
 ### Files used
-Include the files used
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+1. https://stackoverflow.com/questions/52938818/how-to-display-increment-raw-data-using-iloc-depending-on-user-input
+
+2. https://www.w3schools.com/python/python_conditions.asp
+
+3. https://www.geeksforgeeks.org/python-pandas-series-str-cat-to-concatenate-string/
 
