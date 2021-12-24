@@ -8,6 +8,7 @@ Bikeshare Project
 This basic project is a requirement needed to obtain a certifcate in the Programming for Data Science course offered by Udacity. It is an interactive python project where the user has to pick a particular city and some descriptive statstical information would appear on screen. It is really a nice project to really understand the programming in python. Topics like data type, loops, error handling, function, methods and many others were fully covered during the course of this project.
 
 ### Files used
+The following files were used;
 - chicago.csv
 - new_york_city.csv
 - washington.csv
